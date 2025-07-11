@@ -1,6 +1,8 @@
 # ivr
 Two-Stage Least Squares (2SLS) Instrumental Variable Regression Use ivr (desk) With (In) R Software
 
+https://www.youtube.com/watch?v=cuMhnwnD63U
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
